@@ -10,6 +10,7 @@ Features:
 
 File: `Vrinda Store Data Analysis Dashboard.xlsx`
 - Use Case: Ideal for businesses looking to understand customer behavior and improve sales strategies.
+-<a href ="https://github.com/AakashG-107/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20Dashboard.xlsx"> Dataset</a>
 
 ## How to Use
 1. Download the desired Excel file from this repository.
