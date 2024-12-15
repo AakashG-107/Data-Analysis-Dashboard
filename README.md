@@ -1,34 +1,70 @@
-### Vrinda Store Data Analysis Dashboard
-The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2024. This dashboard analyzes sales data for Vrinda Store, offering insights into customer demographics, order trends, and regional performance.
+# Blinkit Grocery Data Dashboard
 
-Features:
-  - Channel performance analysis.
-  - Gender and age group breakdown.
-  - Sales vs. orders comparison.
-  - State-wise sales distribution.
-  - Order status visualization.
+The **Blinkit Grocery Data Dashboard** is a powerful visual analytics tool designed to showcase key performance metrics, trends, and insights for Blinkit, India's last-minute app. The dashboard enables stakeholders to analyze sales data, customer preferences, and outlet performance, helping optimize business growth and decision-making.
 
-File: `Vrinda Store Data Analysis Dashboard.xlsx`
-- Use Case: Ideal for businesses looking to understand customer behavior and improve sales strategies.
--<a href ="https://github.com/AakashG-107/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20Dashboard.xlsx"> Dataset</a>
+---
 
-## How to Use
-1. Download the desired Excel file from this repository.
-2. Open the file in Microsoft Excel.
-3. Interact with the dashboard using filters, slicers, and other tools.
+## 📊 Key Features
 
-### Dashboard Analysis Outcome
+1. **Interactive Filters**:
+   - Outlet Size: High, Medium, Small.
+   - Outlet Location: Tier 1, Tier 2, Tier 3.
+   - Item Types: (e.g., Breads, Dairy, Frozen Foods).
 
-Dashboard is covered by six charts and three slicers. 
+2. **Highlights**:
+   - **Total Sales**: `$1.20M`
+   - **Number of Items Sold**: `8,523`
+   - **Average Sales per Transaction**: `$141`
+   - **Average Customer Ratings**: `4.0`
 
-It is observed that March and August are the profitable months where Orders and Sales are at peak.
+3. **Data Visualizations**:
+   - Sales trends by **Year** (2011–2022).
+   - Sales breakdown by **Outlet Size**, **Outlet Location**, and **Fat Content**.
+   - Top-performing **Item Categories** and **Outlet Types**.
+   - Tier-wise outlet sales performance.
 
-Maharashtra ranks 1st in terms of Sales/
+4. **Actionable Insights**:
+   - Regular-fat products generate 65% of sales revenue.
+   - Tier 3 outlets contribute the highest sales revenue of `$472.1K`.
+   - Fruits and Vegetables, Snack Foods, and Household items are the most sold categories.
 
-Delivered rate is 92%, customers are satisfied. 
+---
 
-Amazon and Flipkart are the top channels. 
+## 🛠 How to Use the Dashboard
 
-Revenue generated through Adult Women is highest. 
+1. Clone or download this repository to your local machine.
+2. Open the `BlinkIT Grocery Data Excel.xlsx` file in **Microsoft Excel**.
+3. Explore the dashboard using slicers and filters to analyze sales data.
+4. Gain insights using the clear and concise visualizations.
 
-We can slice the data in terms of Months, Channels, and Category. 
+---
+
+## 📈 Analytical Insights
+
+### Outlet Trends
+- Tier 3 outlets dominate sales, generating `$472.1K`, followed by Tier 2 and Tier 1.
+- The peak year for outlet establishment was 2018, with sales hitting `$204.5K`.
+
+### Customer Behavior
+- Regular-fat products are preferred, contributing to 65% of total revenue.
+- Top-performing categories include Snack Foods, Fruits & Vegetables, and Household items.
+
+### Recommendations
+- Expand Tier 3 outlets to capitalize on higher revenue generation.
+- Promote low-fat product alternatives for health-conscious customers.
+- Stock high-demand categories like Snack Foods and Household items to drive sales.
+
+---
+
+## 📂 Files Included
+
+- **Dashboard File**: `BlinkIT Grocery Data Excel.xlsx`  
+- **Dashboard Screenshot**:  
+  ![Blinkit Dashboard](./Blink%20It%20Dashboard.png)
+
+## Special Credits: 
+[Data Tutorials](https://youtu.be/klZj_282ApY?si=A2OroIXK9oLBzQ1R)
+With the help of their Tutorial, I have created this Dashboard. Special thanks to them. 
+### Created By:
+[Aakash Ajay Gaikwad](https://github.com/AakashG-107)
+
