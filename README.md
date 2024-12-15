@@ -1,9 +1,5 @@
-Vrinda Store Data Analysis Dashboard
-
-## Dashboards Included
-
-### 1. Vrinda Store Data Analysis Dashboard
-This dashboard analyzes sales data for Vrinda Store, offering insights into customer demographics, order trends, and regional performance.
+### Vrinda Store Data Analysis Dashboard
+The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2024. This dashboard analyzes sales data for Vrinda Store, offering insights into customer demographics, order trends, and regional performance.
 
 Features:
   - Channel performance analysis.
