@@ -48,13 +48,3 @@ The Amazon Prime User Dashboard provides comprehensive insights into:
    git clone https://github.com/AakashG-107/Data-Analysis-Dashboard.git
    cd Data-Analysis-Dashboard
 
-
----
-
-### Instructions:
-1. Save the above code into your **README.md** file.
-2. Ensure that the dashboard images (`Netflix Users Dashboard.jpg` and `Prime Users Dashboard.jpg`) are uploaded to the repository's root or specified path.
-3. Update the image links if necessary.
-
-Now, the README file will display **image previews** for both dashboards at the end. Let me know if further tweaks are required! 🚀
-
